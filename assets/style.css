@@ -217,16 +217,17 @@ section {
     text-indent: 20px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     font-size: 3vh;
 }
 .icon-habilidades {
-    width: 100px;
+    width: 50px;
 }
 .icon-projeto {
     width: 300px;
     transition: 100ms;
+    border-radius: 5px;
 }
 .icon-projeto:hover {
     transform: translate(-3px, -3px);
