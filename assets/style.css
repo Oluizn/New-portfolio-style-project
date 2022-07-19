@@ -164,8 +164,7 @@ section {
     align-items: center;
 }
 .c-loader {
-    animation: loading 5s infinite;
-    animation-timing-function: linear;
+    animation: loading 5s infinite linear;
     width: 200px;
     height: 200px;
     margin: 20px 0px;
