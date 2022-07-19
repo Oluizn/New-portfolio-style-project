@@ -172,8 +172,9 @@ section {
     border: double 10px transparent;
     border-radius: 50%; 
     background-image: linear-gradient(#1F1F23, #1F1F23), linear-gradient(218deg, red 7%, pink 29%, blue 44%, violet 57%, green 70%, yellow 84%, orange 92%);
-    background-origin: border-box;
-    background-clip: content-box, border-box;
+    -webkit-background-origin: border-box;
+    -webkit-background-clip: content-box, border-box;
+
 }
 .box {
     display: flex;
