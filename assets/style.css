@@ -233,7 +233,7 @@ img.img-tomoe {
     align-self: flex-end;
     left: -15%;
     top: -15%;
-    transform: rotate(270deg);
+    transform: rotate(240deg);
 }
 .tomoe2{
     position: relative;
@@ -245,7 +245,7 @@ img.img-tomoe {
     align-self: flex-end;
     top: -15%;
     right: -15%;
-    transform: rotate(90deg);
+    transform: rotate(120deg);
 }
 @keyframes sharingan-rotate {
     to {
