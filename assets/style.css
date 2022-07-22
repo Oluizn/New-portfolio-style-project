@@ -368,7 +368,7 @@ footer {
         z-index: 2;
     }
     .eye {
-        transform: scale(.5);
+        transform: scale(.8);
     }
 }
 @keyframes apresentacao {
